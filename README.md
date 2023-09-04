@@ -1,3 +1,3 @@
 # Dice-Challenge
-No fighting from now on b/w players. Introducing this random dice generator.
-yes working.
+No fighting from now on b/w players. Introducing the random dice generator.
+Live link shared soon.
